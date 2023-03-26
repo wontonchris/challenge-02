@@ -1,3 +1,50 @@
 :root {
-background-color: beige;
+--dark: rgb(19, 27, 19) ;
+--light:rgb(228, 217, 72);
+--Navbar: #b9c6ae;
+
 }
+html {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/001/222/383/original/topographic-map-banner-design-vector.jpg');
+}
+
+header {
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding: 2.5%;
+    background-image: linear-gradient(rgb(247, 241, 241), rgb(39, 50, 141))
+    
+    
+}
+
+
+main {
+    display: flex;
+    flex-direction: column;
+    /* background-image: url('img_girl.jpg') */
+}
+
+
+
+nav {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    min-width: 300px;
+ 
+}
+
+footer ul {
+    display: flex;
+    list-style-type: none;
+    text-align: center;
+    justify-content: space-around
+    
+    
+}
+footer :hover {
+color: var(--light)
+
+}
+
