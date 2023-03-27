@@ -117,18 +117,23 @@ nav {
  
 }
 
-footer ul {
+footer ul{
     display: flex;
+    justify-content: space-evenly;
+}
+
+footer li {
+    display:flex;
     list-style-type: none;
     text-align: center;
-    justify-content:center;
+    justify-content:space-evenly;
     
 
     background-color: rgba(247, 241, 241, .75);
     color: #0c0c0c;
     border: 1px solid #6D6D6D;
-    padding: 20px;
-    margin: 3px;
+    padding: 5px;
+    margin: 2px;
 
     -webkit-border-radius: 12;
     -moz-border-radius: 12;
