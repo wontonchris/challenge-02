@@ -9,12 +9,16 @@ html {
     text-shadow: 1px 1px 2px pink;
     color: #ffffff;
     text-align: center;
-    background-image: url('https://static.vecteezy.com/system/resources/previews/001/222/383/original/topographic-map-banner-design-vector.jpg');
-    background-repeat: round;
+    /* background-image: url('https://static.vecteezy.com/system/resources/previews/001/222/383/original/topographic-map-banner-design-vector.jpg'); */
     
    
-   
-   
+}
+main {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/001/222/383/original/topographic-map-banner-design-vector.jpg');
+    background-size: 100% auto;
+    background-repeat: repeat;
+    background-position: center center;
+    background-attachment: fixed;
 }
 
 aside {
@@ -40,7 +44,7 @@ header {
     align-items:center;
     padding: 2.5%;
     font-weight: bold;
-    background-image: linear-gradient(rgb(247, 241, 241), rgb(39, 50, 141));
+    background-image: linear-gradient(rgba(247, 241, 241, .95), rgba(39, 50, 141, .95));
     -webkit-border-radius: 12;
     -moz-border-radius: 12;
     border-radius: 12px;
@@ -64,9 +68,13 @@ section p {
     border: 1px solid #6D6D6D;
     padding: 20px;
     margin: 3px;
+    background-image: linear-gradient(rgba(247, 241, 241, .75), rgba(39, 50, 141, .75));
     -webkit-border-radius: 12;
     -moz-border-radius: 12;
     border-radius: 12px;
+    /* -webkit-border-radius: 12;
+    -moz-border-radius: 12;
+    border-radius: 12px; */
 
 }
 
