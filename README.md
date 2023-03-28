@@ -7,7 +7,8 @@ Creating Portfolio attempt 1.0
 
 Created live porfolio for recruiting purposes
 
-Live Site: https://github.com/wontonchris/challenge-02
+GitHub Repo: https://github.com/wontonchris/challenge-02
+Live Site: https://wontonchris.github.io/challenge-02/
 
 ## User Story
 
