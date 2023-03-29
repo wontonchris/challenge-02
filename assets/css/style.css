@@ -56,6 +56,11 @@ header {
     
 }
 
+h1 {
+    font-weight: bolder;
+    text-shadow: 3px 2px 2px  hsl(271, 97%, 26%);
+}
+
 
 figure {
     
