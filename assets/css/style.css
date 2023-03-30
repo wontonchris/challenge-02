@@ -189,5 +189,21 @@ color: yellow;
 
 }
 
+/* Small screens */
+@media (max-width: 768px) {
+    
+  }
+  
+/* Medium screens */
+@media (max-width: 1024px) {
+  
+  }
+  
+/* Large screens */
+@media (max-width: 1200px) {
+
+  }
+  
+
 
 
