@@ -10,6 +10,8 @@ Created live portfolio for recruiting purposes
 GitHub Repo: https://github.com/wontonchris/challenge-02
 Live Site: https://wontonchris.github.io/challenge-02/
 
+![Profile Preview](screenshot.png "Website")
+
 ## User Story
 
 ```
